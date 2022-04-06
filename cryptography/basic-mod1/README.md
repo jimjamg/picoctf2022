@@ -167,3 +167,7 @@ picoCTF{R0UND_N_R0UND_B6B25531}
 [Finished in 28ms]
 ```
 Success.
+
+## Authors
+
+jimjamg

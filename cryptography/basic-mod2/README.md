@@ -175,3 +175,6 @@ And its solved.
 picoCTF{1NV3R53LY_H4RD_DADAACAA}
 [Finished in 30ms]
 ```
+## Authors
+
+jimjamg
